@@ -1,7 +1,12 @@
 Code by:
 Ke Lei
 Xiaoran Liu 
+
+Prototype by:
 Brennan McTernan
+
+Planning, Testing, Tuning:
+Ke Lei, Xiaoran Liu, Brennan McTernan
 
 Description:
 This application plays a game of Othello against either a human or another program
